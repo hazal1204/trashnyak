@@ -3,3 +3,11 @@
     font-size: 40px;
 }
 
+
+.card-header {
+      background-color: #fff;
+      border-bottom: none;
+}
+table{
+    margin-left: 50px;
+}
